@@ -2,7 +2,7 @@
 
 **프론트엔드, 백엔드 모두 관심이 많으며 새로운 기술에 관심이 많은 프로그래머입니다.**
 
-```javascript
+```toml
 [personal]
 name = 'Myungho Lee'
 city = 'Anyang, South Korea'
