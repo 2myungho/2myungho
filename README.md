@@ -12,7 +12,7 @@ email = 'dl_audgh@naver.com'
 currently-employed = false
 
 programming-languages = [
-  'AWS'
+  'AWS',
   'Java',
   'Spring boot',
   'Javascript',
