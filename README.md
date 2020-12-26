@@ -21,10 +21,8 @@ programming-languages = [
 ]
 ```
 
-![AppVeyor](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/dl_audgh/)![AppVeyor](http://img.shields.io/badge/-Mail-green?style=flat&logo=Gmail&link=dl_audgh@naver.com)
+[![img](https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/dl_audgh/)
+  [![img](https://camo.githubusercontent.com/fb6d3697ea1b63b88f1a5c69c00d63da09b38c6247447b3ccaf7b8eedb407821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465)](dl_audgh@naver.com) 
 
 ![Myungho's github stats](https://github-readme-stats.vercel.app/api?username=2myungho&show_icons=true)	
 
-
-
-[![img](https://camo.githubusercontent.com/fb6d3697ea1b63b88f1a5c69c00d63da09b38c6247447b3ccaf7b8eedb407821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465)](dl_audgh@naver.com) 
