@@ -17,7 +17,12 @@ Backend = ['Java', 'Spring boot', 'MySQL']
 Cloud = ['AWS']
 ```
 <h3>😉 History</h3>
-✏ 스마트 디지털 UI/UX 앱 & 웹 디자인과정
+<p>
+📜 AWS Certified Cloud Practitioner 취득 (2021.01.07)
+📜 리눅스 마스터 2급 취득 (2020.12.31) 
+✏ 클라우드를 활용한 MSA 전문가 과정 - 멀티캠퍼스 (2020.7 ~ 2020.12)
+✏ 스마트 디지털 UI/UX 앱 & 웹 디자인 과정 - 더조은컴퓨터아트학원 (2019.11 ~ 2020.03)
+</p>
 
 ![Myungho's github stats](https://github-readme-stats.vercel.app/api?username=2myungho&show_icons=true)	
 
