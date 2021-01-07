@@ -3,22 +3,18 @@
 **프론트엔드, 백엔드 모두 관심이 많으며 새로운 기술에 관심이 많은 프로그래머입니다.**
 
 ```toml
-[personal]
+[Personal]
 name = 'Myungho Lee'
 city = 'Anyang, South Korea'
 email = 'dl_audgh@naver.com'
 
-[professional]
+[Professional]
 currently-employed = false
 
-programming-languages = [
-  'AWS',
-  'Java',
-  'Spring boot',
-  'Javascript',
-  'React.js',
-  'Html/Css',
-]
+[Skill]
+Frontend = ['Javascript', 'React.js', 'Html/Css']
+Backend = ['Java', 'Spring boot', 'MySQL']
+Cloud = ['AWS']
 ```
 
 [![img](https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/dl_audgh/)
