@@ -16,7 +16,8 @@ Frontend = ['Javascript', 'React.js', 'Html/Css']
 Backend = ['Java', 'Spring boot', 'MySQL']
 Cloud = ['AWS']
 ```
-<h3>🤩 2020 History</h3>
+<h3>😉 History</h3>
+✏ 스마트 디지털 UI/UX 앱 & 웹 디자인과정
 
 ![Myungho's github stats](https://github-readme-stats.vercel.app/api?username=2myungho&show_icons=true)	
 
