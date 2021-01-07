@@ -18,7 +18,7 @@ Cloud = ['AWS']
 ```
 <h3>📖 Project</h3>
 <p>
-📘 <a href = "https://github.com/2myungho/Project"> 'PlanIt' Plan management sns service </a> </br>
+📘 <a href = "https://github.com/2myungho/Project" style="font-size:20px"> 'PlanIt' Plan management sns service </a> </br>
 📗 <a href = "https://github.com/hyeyoon0808/Mul-quiz"> 'Mul-quiz' Quiz homepage </a> </br>
 📕 <a href = "https://github.com/2myungho/CoffeeLavita_Project"> 'Coffee & Lavita' Caffe homepage </a> </br>
 </p>
