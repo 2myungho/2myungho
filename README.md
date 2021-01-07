@@ -16,10 +16,17 @@ Frontend = ['Javascript', 'React.js', 'Html/Css']
 Backend = ['Java', 'Spring boot', 'MySQL']
 Cloud = ['AWS']
 ```
+<h3>📖 Project</h3>
+<p>
+📘 <a href = "https://github.com/2myungho/Project"> 'PlanIt' Plan management sns service </a> </br>
+📗 <a href = "https://github.com/hyeyoon0808/Mul-quiz"> 'Mul-quiz' Quiz homepage </a> </br>
+📕 <a href = "https://github.com/2myungho/CoffeeLavita_Project"> 'Coffee & Lavita' Caffe homepage </a> </br>
+</p>
+
 <h3>😉 Developer History</h3>
 <p>
-📜 AWS Certified Cloud Practitioner 취득 (2021.01.07)</br>
-📜 Certified Linux Master Level 2 취득 (2020.12.31) </br>
+📜 AWS Certified Cloud Practitioner (2021.01.07)</br>
+📜 Certified Linux Master Level 2 (2020.12.31) </br>
 ✏ 클라우드를 활용한 MSA 전문가 과정 - 멀티캠퍼스 (2020.7 ~ 2020.12)</br>
 ✏ 스마트 디지털 UI/UX 앱 & 웹 디자인 과정 - 더조은컴퓨터아트학원 (2019.11 ~ 2020.03)</br>
 </p>
