@@ -16,14 +16,17 @@ Frontend = ['Javascript', 'React.js', 'Html/Css']
 Backend = ['Java', 'Spring boot', 'MySQL']
 Cloud = ['AWS']
 ```
-<h3>😉 History</h3>
+<h3>😉 Developer History</h3>
 <p>
 📜 AWS Certified Cloud Practitioner 취득 (2021.01.07)</br>
-📜 Linux Master Level 2 취득 (2020.12.31) </br>
+📜 Certified Linux Master Level 2 취득 (2020.12.31) </br>
 ✏ 클라우드를 활용한 MSA 전문가 과정 - 멀티캠퍼스 (2020.7 ~ 2020.12)</br>
 ✏ 스마트 디지털 UI/UX 앱 & 웹 디자인 과정 - 더조은컴퓨터아트학원 (2019.11 ~ 2020.03)</br>
 </p>
-
+<h3>😉 exception History</h3>
+<p>
+👨‍💼 Emart24 점포관리팀 직영점장 근무 (2018.10 ~ 2019.8)
+</p>
 ![Myungho's github stats](https://github-readme-stats.vercel.app/api?username=2myungho&show_icons=true)	
 
 [![img](https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/dl_audgh/)
