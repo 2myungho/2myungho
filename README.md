@@ -26,7 +26,7 @@ Cloud = ['AWS']
 
 <h3>😉 Developer History</h3>
 <p>
-🏠 Full stack Developer 입사 (2021.02.15)
+🏠 Full stack Developer 입사 (2021.02.15) </br>
 📜 AWS Certified Cloud Practitioner (2021.01.07)</br>
 📜 Certified Linux Master Level 2 (2020.12.31) </br>
 ✏ 클라우드를 활용한 MSA 전문가 과정 - 멀티캠퍼스 (2020.7 ~ 2020.12)</br>
