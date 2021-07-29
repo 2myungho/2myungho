@@ -23,6 +23,8 @@ Cloud = ['AWS']
 📕 <a href = "https://github.com/2myungho/CoffeeLavita_Project"> 'Coffee & Lavita' Caffe Homepage </a> </br>
 </p>
 
+<h3>📖 Blog</h3>
+<p>https://myung-ho.tistory.com/</p>
 
 <h3>😉 Developer History</h3>
 <p>
