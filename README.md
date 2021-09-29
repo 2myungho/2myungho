@@ -24,7 +24,7 @@ Cloud = ['AWS']
 </p>
 
 <h3>📖 Blog</h3>
-<p>https://myung-ho.tistory.com/</p>
+<p>https://myung-ho.tistory.com/</p> → <p>https://2myungho.github.io/</p> 옮기는 중
 
 <h3>😉 Developer History</h3>
 <p>
