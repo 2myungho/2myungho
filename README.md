@@ -12,8 +12,8 @@ email = 'dl_audgh@naver.com'
 currently-employed = true
 
 [Skill]
-Frontend = ['Javascript', 'React.js', 'Html/Css']
-Backend = ['Java', 'Spring boot', 'MySQL']
+Frontend = ['Javascript', 'React.js', 'TypeScript', 'Html/Css']
+Backend = ['Node js', 'TypeScript', 'MongoDB']
 Cloud = ['AWS']
 ```
 <h3>📖 Project</h3>
