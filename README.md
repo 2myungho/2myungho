@@ -12,7 +12,7 @@ email = 'dl_audgh@naver.com'
 currently-employed = true
 
 [Skill]
-Frontend = ['Javascript', 'React.js', 'TypeScript', 'Html/Css']
+Frontend = ['Javascript', 'React.js', 'Vue.js', 'TypeScript', 'Html/Css']
 Backend = ['Node js', 'TypeScript', 'MongoDB']
 Cloud = ['AWS']
 ```
@@ -23,8 +23,6 @@ Cloud = ['AWS']
 📕 <a href = "https://github.com/2myungho/CoffeeLavita_Project"> 'Coffee & Lavita' Caffe Homepage </a> </br>
 </p>
 
-<h3>📖 Blog</h3>
-<p>https://myung-ho.tistory.com/ → https://2myungho.github.io/  I'm moving it.</p>
 
 <h3>😉 Developer History</h3>
 <p>
