@@ -16,6 +16,13 @@ Frontend = ['Javascript', 'React.js', 'Vue.js', 'TypeScript', 'Html/Css']
 Backend = ['Node js', 'TypeScript', 'MongoDB']
 Cloud = ['AWS']
 ```
+
+<h3>Blog</h3>
+<p>
+  <a href = "https://myung-ho.tistory.com/">T-Story</a>
+</p>
+
+
 <h3>📖 Project</h3>
 <p>
 📘 <a href = "https://github.com/2myungho/Project"> 'PlanIt' Plan Management SNS Service </a> </br>
