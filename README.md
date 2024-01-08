@@ -19,12 +19,12 @@ Cloud = ['AWS']
 
 <h3>Portfolio</h3>
 <p>
-  <a href = "[https://myung-ho.tistory.com/](https://www.leemh.co.kr/)">T-Story</a>
+  <a href = "https://www.leemh.co.kr/">이명호의 포트폴리오</a>
 </p>
 
 <h3>Blog</h3>
 <p>
-  <a href = "https://myung-ho.tistory.com/">T-Story</a>
+  <a href = "https://myung-ho.tistory.com/">판교 너굴맨의 개발 블로그</a>
 </p>
 
 
