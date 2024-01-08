@@ -12,7 +12,7 @@ email = 'dl_audgh@naver.com'
 currently-employed = true
 
 [Skill]
-Frontend = ['Javascript', 'React.js', 'Vue.js', 'TypeScript', 'Html/Css']
+Frontend = ['Javascript', 'React.js', 'React Native', 'Vue.js', 'TypeScript', 'Html/Css']
 Backend = ['Node js', 'TypeScript', 'MongoDB']
 Cloud = ['AWS']
 ```
